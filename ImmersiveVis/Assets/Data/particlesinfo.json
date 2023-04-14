@@ -1,0 +1,58 @@
+{
+    "data": [
+        { "fibers": [
+            {"object":"toothbrush bristles","composition":"Nylon"},
+            {"object":"Textile","composition":"Polyester"},
+            {"object":"Fishing line","composition":"Nylon"},
+            {"object":"Fishing net","composition":"Nylon"},
+            {"object":"Sweater","composition":"Polyester"},
+            {"object":"Sweater","composition":"Polyester"}
+        ]},
+
+        {"granules":[
+            {"object":"Plastic bottle","composition":"Polyethylene"},
+            {"object":"Detergent bottle","composition":"High-density Polyethylene"},
+            {"object":"Patio furniture","composition":"Low-density Polyethylene"},
+            {"object":"Floor tiles","composition":"Low-density Polyethylene"},
+            {"object":"Bottle cap","composition":"Polypropylene"},
+            {"object":"Yoghurt container","composition":"Polypropylene"},
+            {"object":"Car bumper","composition":"Polypropylene"},
+            {"object":"Foam peanuts","composition":"Polystyrene"},
+            {"object":"Tupperware","composition":"Polystyrene"},
+            {"object":"Plastic cutlery","composition":"Polystyrene"},
+            {"object":"Disposable cup","composition":"Polystyrene"},
+            {"object":"CD","composition":"Polystyrene"},
+            {"object":"Thermal insulation foams","composition":"Polyurethane"},
+            {"object":"Electrical cable insulation","composition":"Polyvinyl chloride"},
+            {"object":"Phone case","composition":"PC+ABS"},
+            {"object":"Car tyre","composition":"Unknown"}
+        ]},
+
+    {"films": [
+        {"object":"Supermarket bag","composition":"Polyethylene"},
+        {"object":"Shower curtain","composition":"Low-density Polyethylene"},
+        {"object":"Soda bottle","composition":"Polyethylene terephthalate"},
+        {"object":"Film","composition":"Polyethylene terephthalate"},
+        {"object":"Peanut butter jar","composition":"Polyethylene terephthalate"},
+        {"object":"Drinking straw","composition":"Polypropylene"},
+        {"object":"Shower curtain","composition":"Polyvinyl chloride"},
+        {"object":"Plastic wrap","composition":"Polyvinylidene chloride"},
+        {"object":"Latex gloves","composition":"Latex"}
+        ]
+    },
+
+    { "fragments": [
+        {"object":"engine part","composition":"Nylon"},
+        {"object":"CD (Compact Disc)","composition":"Polycarbonate"},
+        {"object":"Eyeframes","composition":"Polycarbonate"},
+        {"object":"Milk jug","composition":"High-density Polyethylene"},
+        {"object":"Tupperware","composition":"High-density Polyethylene"},
+        {"object":"Flooring","composition":"Polyvinyl chloride"},
+        {"object":"Computer monitor","composition":"Acrylonitrile butadiene styrene"},
+        {"object":"Computer keyboard","composition":"Acrylonitrile butadiene styrene"},
+        {"object":"Computer printer","composition":"Acrylonitrile butadiene styrene"},
+        {"object":"Drainage pipe","composition":"Acrylonitrile butadiene styrene"}
+    
+    ]}
+    ]
+}

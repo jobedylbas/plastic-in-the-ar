@@ -1,0 +1,877 @@
+{
+  "particles" :[
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 120,
+      "max_size": 600,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 0.7,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 120,
+      "max_size": 160,
+      "proportion": 0.2,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 160,
+      "max_size": 320,
+      "proportion": 0.1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 80,
+      "max_size": 400,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 120,
+      "max_size": 600,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 0.7,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 120,
+      "max_size": 160,
+      "proportion": 0.2,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 160,
+      "max_size": 320,
+      "proportion": 0.1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 80,
+      "max_size": 400,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 120,
+      "max_size": 600,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Snow",
+      "microplastic_type": "granules",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 80,
+      "max_size": 400,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Default",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 60,
+      "max_size": 120,
+      "proportion": 1,
+      "freq": 0.25
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.005,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.019,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.056,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.215,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 250,
+      "max_size": 500,
+      "proportion": 0.227,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 1000,
+      "proportion": 0.251,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 1000,
+      "max_size": 1500,
+      "proportion": 0.122,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 1500,
+      "max_size": 2000,
+      "proportion": 0.048,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 2000,
+      "max_size": 2500,
+      "proportion": 0.029,
+      "freq": 0.66
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.2764,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.4873,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.1618,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.06,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.145,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.2764,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.4873,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.1618,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.06,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.145,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.2764,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.4873,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.1618,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.06,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.145,
+      "freq": 0.113
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.018,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.076,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.206,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.39,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 250,
+      "max_size": 500,
+      "proportion": 0.218,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 1000,
+      "proportion": 0.071,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 1000,
+      "max_size": 1500,
+      "proportion": 0.016,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 1500,
+      "max_size": 2000,
+      "proportion": 0.003,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 2000,
+      "max_size": 2500,
+      "proportion": 0.003,
+      "freq": 0.7
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.1233,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.5657,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.2184,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.0732,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.0194,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.1233,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.5657,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.2184,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.0732,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.0194,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 5,
+      "max_size": 10,
+      "proportion": 0.1233,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 10,
+      "max_size": 25,
+      "proportion": 0.5657,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 25,
+      "max_size": 50,
+      "proportion": 0.2184,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 50,
+      "max_size": 100,
+      "proportion": 0.0732,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 100,
+      "max_size": 250,
+      "proportion": 0.0194,
+      "freq": 0.1
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 65,
+      "max_size": 500,
+      "proportion": 0.31,
+      "freq": 0.68
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 5000,
+      "proportion": 0.66,
+      "freq": 0.68
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 5000,
+      "max_size": 14314,
+      "proportion": 0.3,
+      "freq": 0.68
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "granules",
+      "min_size": 0,
+      "max_size": 0,
+      "proportion": 0,
+      "freq": 0
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 11,
+      "max_size": 25,
+      "proportion": 0.8,
+      "freq": 0.19
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 25,
+      "max_size": 100,
+      "proportion": 0.18,
+      "freq": 0.19
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 100,
+      "max_size": 475,
+      "proportion": 0.02,
+      "freq": 0.19
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 11,
+      "max_size": 25,
+      "proportion": 0.8,
+      "freq": 0.12
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 25,
+      "max_size": 100,
+      "proportion": 0.18,
+      "freq": 0.12
+    },
+    {
+      "location": "Remote",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 100,
+      "max_size": 475,
+      "proportion": 0.02,
+      "freq": 0.12
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 100,
+      "max_size": 500,
+      "proportion": 0.25,
+      "freq": 0.9
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 1000,
+      "proportion": 0.25,
+      "freq": 0.9
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "fibres",
+      "min_size": 1000,
+      "max_size": 5000,
+      "proportion": 0.5,
+      "freq": 0.9
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "granules",
+      "min_size": 0,
+      "max_size": 0,
+      "proportion": 0,
+      "freq": 0
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "films",
+      "min_size": 0,
+      "max_size": 0,
+      "proportion": 0,
+      "freq": 0
+    },
+    {
+      "location": "Urban",
+      "condition": "Default",
+      "microplastic_type": "fragments",
+      "min_size": 5,
+      "max_size": 250,
+      "proportion": 1,
+      "freq": 0.1
+    },
+    {
+      "location": "Urban",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 1000,
+      "proportion": 0.25,
+      "freq": 0.9
+    },
+    {
+      "location": "Urban",
+      "condition": "Rain",
+      "microplastic_type": "fibres",
+      "min_size": 1000,
+      "max_size": 5000,
+      "proportion": 0.5,
+      "freq": 0.9
+    },
+    {
+      "location": "Urban",
+      "condition": "Rain",
+      "microplastic_type": "granules",
+      "min_size": 0,
+      "max_size": 0,
+      "proportion": 0,
+      "freq": 0
+    },
+    {
+      "location": "Urban",
+      "condition": "Rain",
+      "microplastic_type": "films",
+      "min_size": 0,
+      "max_size": 0,
+      "proportion": 0,
+      "freq": 0
+    },
+    {
+      "location": "Urban",
+      "condition": "Rain",
+      "microplastic_type": "fragments",
+      "min_size": 5,
+      "max_size": 250,
+      "proportion": 1,
+      "freq": 0.1
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 65,
+      "max_size": 500,
+      "proportion": 0.31,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 500,
+      "max_size": 5000,
+      "proportion": 0.66,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fibres",
+      "min_size": 5000,
+      "max_size": 14314,
+      "proportion": 0.03,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "granules",
+      "min_size": 11,
+      "max_size": 25,
+      "proportion": 0.8,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "granules",
+      "min_size": 25,
+      "max_size": 100,
+      "proportion": 0.18,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "granules",
+      "min_size": 100,
+      "max_size": 475,
+      "proportion": 0.02,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 11,
+      "max_size": 25,
+      "proportion": 0.8,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 25,
+      "max_size": 100,
+      "proportion": 0.18,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "films",
+      "min_size": 100,
+      "max_size": 475,
+      "proportion": 0.02,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 11,
+      "max_size": 25,
+      "proportion": 0.8,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 25,
+      "max_size": 100,
+      "proportion": 0.18,
+      "freq": 0.25
+    },
+    {
+      "location": "Urban",
+      "condition": "Snow",
+      "microplastic_type": "fragments",
+      "min_size": 100,
+      "max_size": 475,
+      "proportion": 0.02,
+      "freq": 0.25
+    }
+  ]
+}

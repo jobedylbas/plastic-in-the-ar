@@ -1,0 +1,11 @@
+{
+    "objects": [
+  {"objectName":"coffee_cup","color":"yellow","type":"Fragment","composition":"Polystyrene","minSize": 80.0, "maxSize": 400.0},
+  {"objectName":"rug","color":"red","type":"Fibre","composition":"Nylon","minSize": 120.0, "maxSize": 600.0},
+  {"objectName":"soda","color":"red","type":"Granule","composition":"Polyethylene","minSize": 60.0, "maxSize": 120.0},
+  {"objectName":"plate","color":"white","type":"Granule","composition":"Non-foamed polystyrene","minSize": 60.0, "maxSize": 120.0},
+  {"objectName":"furniture","color":"yellow","type":"Granule","composition":"Low-density Polyethylene","minSize": 60.0, "maxSize": 120.0},
+  {"objectName":"chair","color":"grey","type":"Granule","composition":"High-density Polyethylene","minSize": 60.0, "maxSize": 120.0},
+  {"objectName":"truck","color":"red","type":"Granule","composition":"Polypropylene, Polyethylene or Polycarbonate","minSize": 60.0, "maxSize": 120.0},
+  {"objectName":"chips","color":"yellow","type":"Film","composition":"Oriented polypropylene","minSize": 60.0, "maxSize": 120.0}
+]}
